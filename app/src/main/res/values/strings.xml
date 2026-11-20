@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Waymark</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="today_title">Daily Distance</string>
+    <string name="today_subtitle_combined">Car &amp; Bike Combined</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="finish_leg_now">Lock Destination Now</string>
+    <string name="status_idle">Ready to track</string>
+    <string name="status_moving">In motion</string>
+    <string name="status_dwelling">Stopped — confirming destination</string>
+    <string name="status_at_destination">At destination</string>
+    <string name="permission_title">Location access required</string>
+    <string name="permission_body">Waymark needs precise location access to measure your daily car and bike distance and detect stops longer than 15 minutes automatically.</string>
+    <string name="permission_grant_cta">Allow Location</string>
+    <string name="empty_trips_title">No trips logged today</string>
+    <string name="empty_trips_body">Tap Start Tracking before you drive or ride. Every leg between stops longer than 15 minutes is logged automatically.</string>
+    <string name="history_title">Travel History</string>
+    <string name="history_weekly_overview">Last 7 Days</string>
+    <string name="history_empty">Your daily mileage and point-to-point journeys will appear here once trips are recorded.</string>
+    <string name="settings_title">Tracking Settings</string>
+    <string name="settings_unit_label">Distance &amp; Speed Unit</string>
+    <string name="settings_dwell_label">Destination Stop Threshold</string>
+    <string name="settings_dwell_desc">A stop is locked as your destination once you remain stationary for longer than this duration.</string>
+    <string name="settings_clear_history">Clear All Trip History</string>
+    <string name="trip_detail_title">Journey Details</string>
+    <string name="notification_channel_name">Trip Tracking</string>
+    <string name="notification_channel_desc">Shows live daily distance and destination stop status while tracking</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_route_banner">Scenic bike and road route illustration</string>
+</resources>

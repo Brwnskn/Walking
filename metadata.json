@@ -1,0 +1,6 @@
+{
+  "name": "Waymark",
+  "description": "Automatic daily distance and point-to-point trip tracker for car and bike travel with 15-minute destination stop detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
